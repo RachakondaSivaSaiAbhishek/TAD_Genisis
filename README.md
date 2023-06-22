@@ -25,7 +25,7 @@ The web page includes the following components:
 
 ## GitHub Repository
 
-To access the TAD_Genisis design, please visit our GitHub repository: [TAD_Genisis](https://github.com/your-github-repo-link)
+To access the TAD_Genisis design, please visit our GitHub repository: [TAD_Genisis](https://github.com/RachakondaSivaSaiAbhishek/TAD_Genisis)
 
 Feel free to clone, fork, or contribute to the repository as per the license and guidelines specified.
 
